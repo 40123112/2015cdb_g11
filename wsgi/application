@@ -1,0 +1,10 @@
+import cherrypy
+import os
+class Guess(object):
+    @cherrypy.expose
+    def index(self,what="hello"):
+        return what
+if 'OPENSHIFT_REPO_DIR' in os.environ.keys():
+    application = cherrypy.Application(Guess())
+else:
+     cherrypy.quickstart(Guess())
