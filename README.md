@@ -14,6 +14,4 @@ note: 本電子書僅存放與四設二乙在協同產品設計實習課程任�
 
 * Github integration: https://github.com/coursemdetw/2015cd.git
 
-course website: http://cd-cadp.rhcloud.com
-
 
