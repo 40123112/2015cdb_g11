@@ -6,6 +6,7 @@ Welcome, this is an ongoing project record for a university course named collabo
 
 Github integration: https://github.com/40123112/2015cdb_g11
 Openshift: http://2015cdbg11-40123103.rhcloud.com/
+Gitbook: http://40123112.gitbooks.io/2015cdb_g11/content/
 Team Website: https://2015cdg11.wordpress.com
 
 
