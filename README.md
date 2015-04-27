@@ -4,10 +4,9 @@ March - July 2015
 
 Welcome, this is an ongoing project record for a university course named collaborative product design principles and practices.
 
-Github integration: https://github.com/product-owner/2015scrum
+Github integration: https://github.com/40123112/2015cdb_g11
 
-course website: http://cd-cadp.rhcloud.com
-
+Team Website: http://cd-cadp.rhcloud.com
 
 
 

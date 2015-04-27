@@ -1,4 +1,5 @@
-# 說明 Brython 協同繪圖模式下, 與 JavaScript canvas 繪圖對應的相關概念與可用指令
+# 由 scrum_2 組員所寫的考試報告
+說明 Brython 協同繪圖模式下, 與 JavaScript canvas 繪圖對應的相關概念與可用指令
 
 Brython的目標是用Python取代JavaScript，使Python成為web瀏覽器的腳本語言。
 V:\2015cdb_g11\cp_project.leo,<?xml version="1.0" encoding="utf-8"?>
