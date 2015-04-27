@@ -25,7 +25,7 @@ expanded="office.20150407074720.3,"><vh>@file gear.py</vh></v>
 <v t="amd.20150415215803.1" a="E"><vh>@path static/Brython3.1.1-20150328-091302/Lib/site-packages/</vh>
 <v t="amd.20150415215843.1"><vh>@edit spur.py</vh></v>
 </v>
-<v t="2015.20150330144929.1715"><vh>以下為專案報告相關檔案</vh>
+<v t="2015.20150330144929.1715" a="E"><vh>以下為專案報告相關檔案</vh>
 <v t="2015.20150330144929.1716"><vh>@edit SUMMARY.md</vh></v>
 <v t="2015.20150330144929.1717"><vh>@edit README.md </vh></v>
 <v t="2015.20150330144929.1720"><vh>@edit _建立分組協同報告.md</vh></v>
