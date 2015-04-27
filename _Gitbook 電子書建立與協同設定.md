@@ -2,11 +2,11 @@
 
 操作步驟:
 
-在 Github 中建立一個帶有 README.md 檔案的公開倉儲
-在 Gitbook 建立帳號, 進入後建立一本電子書
-電子書建立後, 選擇"Link to Github"
-輸入同步 Github 倉儲連結, 系統傳回設定已經存檔之訊息, 此設定會將 Github 倉儲內的 README.md 檔案取回 Gitbook 對應電子書中
-此時 Gitbook 電子書與 Github 倉儲資料, 已經雙向同步, 分別在兩端編輯推送存檔的資料內容, 都會自動同步到另一端
+在 Github 中建立一個帶有 README.md 檔案的公開倉儲<br>
+在 Gitbook 建立帳號, 進入後建立一本電子書<br>
+電子書建立後, 選擇"Link to Github"<br>
+輸入同步 Github 倉儲連結, 系統傳回設定已經存檔之訊息, 此設定會將 Github 倉儲內的 README.md 檔案取回 Gitbook 對應電子書中<br>
+此時 Gitbook 電子書與 Github 倉儲資料, 已經雙向同步, 分別在兩端編輯推送存檔的資料內容, 都會自動同步到另一端<br>
 假如希望每次在電子書資料更新時, Gitbook 會自動建立電子書, 則按下"Add a deployment webhook"
 
 Q: 是否可以將 markdown 資料以外的內容放入 gitbook 電子書資料中?
