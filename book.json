@@ -2,7 +2,7 @@
     "plugins": ["disqus"],
     "pluginsConfig": {
         "disqus": {
-            "shortName": "2015cdb"
+            "shortName": "2015cd"
         }
     }  
 }

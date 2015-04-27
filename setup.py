@@ -1,10 +1,10 @@
 from setuptools import setup
 
-setup(name='YourAppName',
+setup(name='CP Project 2014',
       version='1.0',
-      description='OpenShift App',
-      author='Your Name',
-      author_email='example@example.com',
+      description='OpenShift App for CP Project',
+      author='MDE NFU Taiwan',
+      author_email='2014cpcadp@gmail.com',
       url='http://www.python.org/sigs/distutils-sig/',
       install_requires=['CherryPy'],
      )
