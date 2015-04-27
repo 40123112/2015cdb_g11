@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Created by Leo (http://leoeditor.com/leo_toc.html) -->
+<!-- Created by Leo (http://webpages.charter.net/edreamleo/front.html) -->
 <?xml-stylesheet ekr_test?>
 <leo_file xmlns:leo="http://www.leo-editor.org/2011/leo" >
 <leo_header file_format="2" tnodes="0" max_tnode_index="0" clone_windows="0"/>
@@ -29,8 +29,10 @@ expanded="office.20150407074720.3,"><vh>@file gear.py</vh></v>
 <v t="2015.20150330144929.1716"><vh>@edit SUMMARY.md</vh></v>
 <v t="2015.20150330144929.1717"><vh>@edit README.md </vh></v>
 <v t="2015.20150330144929.1720"><vh>@edit _建立分組協同報告.md</vh></v>
+<v t="2015.20150427172114.1681"><vh>@edit _何謂協同.md</vh></v>
 <v t="2015.20150330144929.1721"><vh>@edit _新產品開發流程.md</vh></v>
-<v t="amd.20150414195734.1"><vh>@edit _協同上機考試.md</vh></v>
+<v t="2015.20150427172114.1683"><vh>@edit _Scrum 專案標準流程.md</vh></v>
+<v t="amd.20150414195734.1"><vh>@edit _Gitbook 電子書建立與協同設定.md</vh></v>
 <v t="amd.20150414195826.1"><vh>@edit scrumaster.md</vh></v>
 <v t="amd.20150414195850.1"><vh>@edit scrum_1.md</vh></v>
 <v t="amd.20150414195859.1"><vh>@edit scrum_2.md</vh></v>
