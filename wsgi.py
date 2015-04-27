@@ -184,7 +184,6 @@ class Hello(object):
     <script type="text/javascript" src="/static/Brython3.1.1-20150328-091302/brython.js"></script>
     <script src="/static/Cango2D.js" type="text/javascript"></script>
     <script src="/static/gearUtils-04.js" type="text/javascript"></script>
-    40123148<br>蔡宗霖
     </head>
     <!-- 啟動 brython() -->
     <body onload="brython()">
